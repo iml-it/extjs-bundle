@@ -1,1 +1,2 @@
-# Empty .gitignore file
+# Exclude .idea folder
+.idea

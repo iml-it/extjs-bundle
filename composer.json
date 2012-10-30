@@ -1,0 +1,13 @@
+{
+    "name": "iml/extjs-bundle",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Kevin Studer",
+            "email": "kreemer@me.com",
+            "homepage": "https://github.com/kreemer",
+            "role": "Developer"
+        }
+    ]
+
+}

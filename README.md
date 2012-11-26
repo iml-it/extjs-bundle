@@ -1,4 +1,4 @@
 extjs-bundle
 ============
 
-Integrates ExtJS with Symfony2
+Integrates ExtJS with Symfony2.

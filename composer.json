@@ -1,5 +1,5 @@
 {
-    "name": "iml/extjs-bundle",
+    "name": "iml-it/extjs-bundle",
     "type": "library",
     "description": "ExtJS-Bundle (gpl-version of ExtJS) for Symfony2 Framework",
     "keywords": ["symfony","extjs"],

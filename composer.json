@@ -4,7 +4,7 @@
     "description": "ExtJS-Bundle (gpl-version of ExtJS) for Symfony2 Framework",
     "keywords": ["symfony","extjs"],
     "homepage": "http://github.com/iml-it/extjs-bundle",
-    "license": "GPL",
+    "license": "GPL-2.0",
     "authors": [
         {
             "name": "Kevin Studer",
@@ -19,6 +19,7 @@
             "role": "Developer"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "IML\\ExtJSBundle": "."
